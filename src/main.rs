@@ -1,5 +1,3 @@
-#![feature(proc_macro_hygiene, decl_macro)]
-
 struct Moeda {
     id: u32,
     nome: String,
